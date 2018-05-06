@@ -1,2 +1,3 @@
 changed added to test rebase - from github.com
 change added from console 
+change 2 added from github.com
